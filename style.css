@@ -1,0 +1,21 @@
+.heading{
+    width: 100%;
+    font-size: 30px;
+    margin: 0px;
+    box-shadow: 10px 10px 10px solid red;
+    padding: 0;
+}
+.note{
+    color:  black;
+    font-size: 15px;
+}
+#music{
+    float: none;
+}
+canvas {
+    border-color: red;
+    border: 5px solid red;
+    box-shadow: 5px 5px 5px solid red;
+    padding: auto;
+    margin: auto;
+}
